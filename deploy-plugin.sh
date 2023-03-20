@@ -8,7 +8,7 @@ PLUGINS=(
   # datasource=github-releases
   "DiscordSRV/DiscordSRV v1.24.0 DiscordSRV-Build"
   # datasource=github-releases
-  "sladkoff/minecraft-prometheus-exporter v2.4.2 minecraft-prometheus-exporter"
+  "sladkoff/minecraft-prometheus-exporter v2.5.0 minecraft-prometheus-exporter"
 )
 
 function download_github(){
