@@ -6,7 +6,7 @@ PLUGINS=(
   # datasource=github-releases versioning=docker
   "PlayPro/CoreProtect v20.1 CoreProtect"
   # datasource=github-releases
-  "DiscordSRV/DiscordSRV v1.24.0 DiscordSRV-Build"
+  "DiscordSRV/DiscordSRV v1.26.2 DiscordSRV-Build"
   # datasource=github-releases
   "sladkoff/minecraft-prometheus-exporter v2.4.2 minecraft-prometheus-exporter"
 )
